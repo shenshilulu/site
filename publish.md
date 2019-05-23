@@ -3,7 +3,7 @@
  
 # 地发布页：
 
-## 动动小手 点击右上角“Star”按钮
+## 动动小手点击右上角“Star”按钮不迷路
 
 ## 以下地址敬请加入收藏夹 
 https://www.sslulu.xyz/ 
@@ -21,5 +21,9 @@ http://www.sslulu.top/
 
 ## 需要合作请联系站长邮箱
 **sslulu@2980.com**
+
+
+## 站长比特币地址 
+**1ZJFvoLD92Y4Y7tUgbVVnw1nEc4xwooSY**
 
 

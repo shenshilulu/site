@@ -10,7 +10,7 @@
 ##  
 网站名称|网址url
 ---|---:
-大香蕉视频|http://www.dxj777.top/|
+大香蕉视频|https://www.dxj777.top/|
 
 
 
